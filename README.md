@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @titiksha26352
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hi I am Titiksha Tripathi. 
+Iam pursuing my Btech from  Computer Science and Engineering from PSIT Kanpur
 
-<!---
-titiksha26352/titiksha26352 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am Passionate about knowing: 
+1) Excel
+2) SQL
+3) power BI Tools
+4) Python
+5) Data Visualization
+6) Data Analytics
+
+Technical Skills:
+1)Web Development: html, css, javascript and node.js
+2)Language Known : Python , C++(basic)
+
